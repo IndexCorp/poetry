@@ -306,6 +306,14 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 
+.navbar-mobile ul li {
+  border-top: 1px solid rgb(243, 241, 241);
+}
+
+.navbar ul li a {
+  text-align: center;
+}
+
 .navbar-mobile a {
   padding: 10px 20px;
   font-size: 15px;
@@ -473,7 +481,7 @@ section {
 
 .section-bg:before {
   content: "";
-  background: #1b1b1b;
+  /* background: #1b1b1b; */
   position: absolute;
   bottom: 60px;
   top: 60px;
@@ -636,6 +644,11 @@ section {
   }
 }
 
+/*mine*/
+.tabs .container .tab-content .my-right {
+  background-color: #5c84a0;
+}
+
 /*--------------------------------------------------------------
 # Counts
 --------------------------------------------------------------*/
@@ -730,6 +743,7 @@ section {
     line-height: 1;
     font-size: 36px;
   }
+
 }
 
 @media (max-width: 575px) {
@@ -2107,4 +2121,72 @@ section {
   background: #e03a3c;
   color: #fff;
   text-decoration: none;
+}
+
+/* copied style codes from thier source code*/
+#about .container .small-chops .first-poeltry-article, #about .container .small-chops .second-poeltry-article, #about .container .small-chops .third-poeltry-article {
+  margin-left: 0px;
+}
+
+#card-2351 .img-lumin {
+  mix-blend-mode: normal;
+}
+
+#card-2351 {
+  background-color: #91301d;
+}
+
+.first-poeltry-article #item-2351 h1 a, #item-2351 a:hover, #entry-2351 blockquote {
+  color: #91301d;
+}
+
+
+#card-2350 .img-lumin {
+  mix-blend-mode: normal;
+}
+
+#card-2350 { 
+  background-color: #fea14c; 
+}
+
+.second-poeltry-article #item-2350 h1 a, #item-2350 a:hover, #entry-2350 blockquote { 
+  color: #fea14c; 
+}
+
+#card-2347 .img-lumin { 
+  mix-blend-mode: normal; 
+}
+
+#card-2347 { 
+  background-color: #f2b89f; 
+}
+
+.third-poeltry-article #item-2347 h1 a, #item-2347 a:hover, #entry-2347 blockquote { 
+  color: #f2b89f; 
+}
+
+.tabs .container .tab-content .my-right #card-2355 {
+  position: relative;
+}
+
+.tabs .container .tab-content .my-right #card-2355 .img-lumin {
+  mix-blend-mode: normal;
+  border: 10px solid #fff;
+  text-align: center;
+  margin-top: -35px;
+}
+
+.tabs .container .tab-content .my-right #item-2355 h1, #item-2355 a:hover, #entry-2355 blockquote { 
+  color: #5c84a0; 
+}
+
+.tabs .container .tab-content .my-right .note-poe, .tabs .container .tab-content .my-right .note-poe p a, .tabs .container .tab-content .my-right .note-poe h2 a {
+  text-align: left;
+  color: #fff;
+}
+
+@media (max-width: 450px) {
+  .tabs .container .tab-content .my-right #card-2355 {
+    padding: 10px 10px;
+  }
 }
