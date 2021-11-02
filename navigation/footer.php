@@ -4,10 +4,10 @@
 								<div class="col-12 col-md-6 col-lg-5 mt-4">
 					<h2 class="h6 text-dark mb-3">Palette Poetry</h2>
 
-					<ul id="menu-about-menu" class="list-unstyled site-footer-2col-menu"><li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="about-us/index.php">About&nbsp;Palette&nbsp;Poetry</a></li>
-<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="submit/index.php">Submit</a></li>
-<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="terms-conditions/index.php">Terms&nbsp;&#038;&nbsp;Conditions</a></li>
-<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="privacy-policy/index.php">Privacy&nbsp;Policy</a></li>
+					<ul id="menu-about-menu" class="list-unstyled site-footer-2col-menu"><li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="about-us.php">About&nbsp;Palette&nbsp;Poetry</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="submit.php">Submit</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="terms-conditions.php">Terms&nbsp;&#038;&nbsp;Conditions</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="privacy-policy.php">Privacy&nbsp;Policy</a></li>
 </ul>				</div>
 
 				

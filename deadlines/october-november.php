@@ -1,7 +1,6 @@
 <?php 
-	include 'navigation/header.php';
+    include '../navigation/header.php';
 ?>
-
 
 	<main class="site-main">
 
@@ -9,14 +8,15 @@
 	<div class="row justify-content-between">
 		<div class="col-12 col-lg-8">
 							<style>#card-2350 .img-lumin { mix-blend-mode: normal; }#card-2350 { background-color: #fea14c; }#item-2350 h1, #item-2350 a:hover, #entry-2350 blockquote { color: #fea14c; }</style>
-<article id="entry-2350" class="entry row post-2350 post type-post status-publish format-standard has-post-thumbnail hentry category-pages/curated-deadlines">
+<article id="entry-2350" class="entry row post-2350 post type-post status-publish format-standard has-post-thumbnail hentry category-curated-deadlines">
+    
 	<header class="entry-header col-12" data-reveal>
 					<div class="entry-img mb-4">
 				<img width="600" height="361" src="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd.jpg 1500w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd-600x361.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd-768x462.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" />				<div class="img-lumin-overlay" style="background-image: url(25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd.jpg)"></div>
 			</div>
 		
 		<h1 data-reveal>Deadlines: October &#038;&nbsp;November</h1>				<p>	By
-	<a href="author/palette-poetry.php" title="Posts by Palette Poetry" rel="author">Palette Poetry</a>	</p>
+	<a href="author/palette-poetry.html" title="Posts by Palette Poetry" rel="author">Palette Poetry</a>	</p>
 	</header>
 
 	<div class="col-12 col-lg-10 rich-text">
@@ -30,7 +30,7 @@
 <div class="basics">
 <div class="basics">
 <div class="basics">
-<h2 class="title"><a href="current-contests.php">FEATURED: Palette&#8217;s Love &amp; Eros Prize </a></h2>
+<h2 class="title"><a href="current-contests.html">FEATURED: Palette&#8217;s Love &amp; Eros Prize </a></h2>
 </div>
 <div class="description">
 <p>Just three days remain to submit to our inaugural love-themed contest. All iterations of love are welcome—send us your bitter and your sweet, your queer, platonic, reverent, and devotional. The winning poet will be awarded $3000 and publication on <em>Palette Poetry</em>. Second and third place will win $300 &amp; $200 respectively, as well as publication. The top ten finalists will also be recognized.​ The guest judge this year is Kaveh Akbar.</p>
@@ -161,53 +161,18 @@
 
 		<div class="col-12 col-lg-5 col-xl-4">
 			<div class="sidebar">
-	<section id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://www.palettepoetry.com/">
-				<label>
-					<span class="screen-reader-text">Search for:</span>
-					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
-				</label>
-				<input type="submit" class="search-submit" value="Search" />
-			</form></section><section id="pp-submit-2" class="widget widget-pp-submit"><h2 class='text-dark'>Share Your Poetry</h2><p>Always free. Always open. $50 per poems selected.</p><a href='submit.php' class='btn btn-white'>Submit</a></section><section id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>
-			<ul>
-					<li class="cat-item cat-item-22"><a href="poetry/alan-chazaros-pocho-boy.php">Alan Chazaro&#039;s Pocho Boy</a>
-</li>
-	<li class="cat-item cat-item-26"><a href="poetry/chelsea-dingmans-intersection.php">Chelsea Dingman&#039;s Intersection</a>
-</li>
-	<li class="cat-item cat-item-18"><a href="contest-winner.php">Contest Winner</a>
-</li>
-	<li class="cat-item cat-item-24"><a href="pages/curated-deadlines.php">Curated Deadlines</a>
-</li>
-	<li class="cat-item cat-item-14"><a href="essay.php">Essay</a>
-</li>
-	<li class="cat-item cat-item-19"><a href="feedback.php">Feedback</a>
-</li>
-	<li class="cat-item cat-item-20"><a href="poetry/franny-chois-periodic.php">Franny Choi&#039;s Periodic</a>
-</li>
-	<li class="cat-item cat-item-15"><a href="interview.php">Interview</a>
-</li>
-	<li class="cat-item cat-item-30"><a href="poetry/khalisa-raes-knee-length.php">Khalisa Rae&#039;s Knee Length</a>
-</li>
-	<li class="cat-item cat-item-16"><a href="note-from-the-editors.php">Note From the Editors</a>
-</li>
-	<li class="cat-item cat-item-3"><a href="poetry.php" title="We are so grateful to all of our partner-poets for sharing their work with us—please enjoy their beautiful words in our Featured Poetry catalogue.">Poetry</a>
-</li>
-	<li class="cat-item cat-item-25"><a href="poetry/poetry-we-admire.php">Poetry We Admire</a>
-</li>
-	<li class="cat-item cat-item-27"><a href="poetry/robin-myers-the-guest.php">Robin Myers&#039; The Guest</a>
-</li>
-	<li class="cat-item cat-item-28"><a href="poetry/tiffany-osedra-millers-goatwater.php">Tiffany Osedra Miller&#039;s Goatwater</a>
-</li>
-	<li class="cat-item cat-item-29"><a href="poetry/voices-for-change.php">Voices for Change</a>
-</li>
-			</ul>
-
-			</section></div>
+	
+            <?php 
+                include '../navigation/sidebar.php';
+            ?>
+        
+        </div>
 		</div>
 	</div>
 </div>
 
 	</main>
-
+    
 <?php 
-	include 'navigation/footer.php';
+    include '../navigation/footer.php';
 ?>

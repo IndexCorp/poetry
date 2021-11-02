@@ -11,15 +11,20 @@
 		<div class="col-12 col-lg-8">
 							<style>#card-8, #card-8 .card-img, #item-8 .item-img, #entry-8 .entry-img, #entry-header-8 .entry-img { background-color: #ffffff; }#item-8 h1, #item-8 a:hover, #entry-8 blockquote { color: #ffffff; }</style>
 <article id="entry-8" class="entry row post-8 page type-page status-publish has-post-thumbnail hentry">
+
+
 	<div class="col-12">
 		<style>#card-8, #card-8 .card-img, #item-8 .item-img, #entry-8 .entry-img, #entry-header-8 .entry-img { background-color: #ffffff; }#item-8 h1, #item-8 a:hover, #entry-8 blockquote { color: #ffffff; }</style>
 <header id="entry-header-8" class="entry-header" data-reveal>
 			<div class="entry-img mb-4">
-			<img width="600" height="140" src="../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/ABOUTUS-1500x350.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/ABOUTUS.jpg 1500w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/ABOUTUS-600x140.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/ABOUTUS-768x179.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" />			<div class="img-lumin-overlay" style="background-image: url(../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/ABOUTUS-1500x350.jpg)"></div>
+			<img width="600" height="140" src="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/ABOUTUS-1500x350.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/ABOUTUS.jpg 1500w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/ABOUTUS-600x140.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/ABOUTUS-768x179.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" />			
+			<div class="img-lumin-overlay" style="background-image: url(25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/ABOUTUS-1500x350.jpg)"></div>
 		</div>
 	
-	<h1 data-reveal>About Palette&nbsp;Poetry</h1>	<h3 class="entry-subtitle">Welcome home, poet.</h3></header>
+	<h1 data-reveal>About Palette&nbsp;Poetry</h1>	<h3 class="entry-subtitle">Welcome home, poet.</h3>
+</header>
 	</div>
+
 
 	<div class="col-12 col-lg-10 rich-text">
 		<div class="fl-builder-content fl-builder-content-8 fl-builder-content-primary fl-builder-global-templates-locked" data-post-id="8"><div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5b185e81307ae" data-node="5b185e81307ae">
@@ -37,10 +42,10 @@
 <p>Palette Poetry endeavors to uplift and engage emerging and established poets in our larger community.</p>
 <p>The world is eager for poets. In 2016, more people spent their hard earned money on poetry books than any other year on record. When times are dark, the world always turns to poets for empathy, for answers, for words, bucking and new.</p>
 <p>Palette Poetry is here to paint our small part of the world with truth through poetry, as hopeful and eviscerating as truth can be.</p>
-<p><img loading="lazy" class=" wp-image-798 alignright" src="../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/VIDA_saferLIT_sticker_image-file-300x297.png" alt="" width="201" height="199" /></p>
+<p><img loading="lazy" class=" wp-image-798 alignright" src="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/VIDA_saferLIT_sticker_image-file-300x297.png" alt="" width="201" height="199" /></p>
 <p>We have no particular aesthetic vision or mission except to create a safe and encouraging space for all voices. Our goal is to simply find and publish the best poetry we can, no matter its roots in craft.</p>
-<p><a href="../submit/index.php">Check out our submission guidelines here.</a> Send us your very best.</p>
-<p>For questions regarding submissions, please visit our <a href="../faq.html">FAQ page</a>, or reach out to us at contact (at) palettepoetry.com.</p>
+<p><a href="submit.php">Check out our submission guidelines here.</a> Send us your very best.</p>
+<p>For questions regarding submissions, please visit our <a href="faq.php">FAQ page</a>, or reach out to us at contact (at) palettepoetry.com.</p>
 <p>&nbsp;</p>
 <h2 style="text-align: center;"><span style="font-size: 26px;"><strong>Our Masthead</strong></span></h2>
 <p style="text-align: center;"><span style="font-size: 20px;"><strong>Editor in Chief: </strong></span></p>
@@ -50,10 +55,16 @@
 <p style="text-align: center;"><span style="font-size: 20px;"><strong>Associate Editor: </strong></span></p>
 <p style="text-align: center;"><span style="font-size: 20px;">Ben Bartu </span></p>
 <p style="text-align: center;"><span style="font-size: 20px;"><strong>Guest Editors: </strong></span></p>
-<p style="text-align: center;"><span style="font-size: 20px;">Ceridwen Hall, </span><span style="font-size: 20px;">Despy Boutris, </span><span style="font-size: 20px;">Heathen Derr-Smith, </span></p>
-<p style="text-align: center;"><span style="font-size: 20px;">Joylanda Jamison, </span><span style="font-size: 20px;">Steven Duong, </span><span style="font-size: 20px;">V.B. Borjen</span></p>
+<p style="text-align: center;"><span style="font-size: 20px;">Ceridwen Hall, </span>
+<span style="font-size: 20px;">Despy Boutris, </span>
+<span style="font-size: 20px;">Heathen Derr-Smith, </span></p>
+<p style="text-align: center;">
+<span style="font-size: 20px;">Joylanda Jamison, </span>
+<span style="font-size: 20px;">Steven Duong, </span>
+<span style="font-size: 20px;">V.B. Borjen</span></p>
 <p style="text-align: center;"><span style="font-size: 20px;"><strong>Readers:</strong> </span></p>
-<p style="text-align: center;"><span style="font-size: 20px;">Anna Nunan, Ashley Wang, AT Hincapie, Cristi Donoso Best, DeAngelo Oliver, Diana Burke, Edythe Rodriguez, Hannah Filley, Iris Preaker, Isabella Escamilla, J.L. Moultrie, Jessica Kim, Jood AlThukair, Julia Norman, Lady Lauren Crawford, Lauren Carlson, Manjot Singh, Megan Kim, Mya Alexice, Olga Rukovets, Ozzyka Farah, Sarah Cavar, Sihle Ntuli, Sneha Mohidekar, Sophie Crocker, Swapnil Dhruv Bose, Swastika Jajoo, Tain Leonard-Peck, and Yong-Yu Huang</span></p>
+<p style="text-align: center;">
+<span style="font-size: 20px;">Anna Nunan, Ashley Wang, AT Hincapie, Cristi Donoso Best, DeAngelo Oliver, Diana Burke, Edythe Rodriguez, Hannah Filley, Iris Preaker, Isabella Escamilla, J.L. Moultrie, Jessica Kim, Jood AlThukair, Julia Norman, Lady Lauren Crawford, Lauren Carlson, Manjot Singh, Megan Kim, Mya Alexice, Olga Rukovets, Ozzyka Farah, Sarah Cavar, Sihle Ntuli, Sneha Mohidekar, Sophie Crocker, Swapnil Dhruv Bose, Swastika Jajoo, Tain Leonard-Peck, and Yong-Yu Huang</span></p>
 <p>&nbsp;</p>
 <h2 style="text-align: center;"><span style="font-size: 26px;"><strong>Our Values</strong></span></h2>
 <p>We at Palette believe in creating a space for free, safe, life-affirming expression — to this end, we do not discriminate on the basis of age, religion, ability, socioeconomic status, gender identity or expression, national origin, ancestry, race, sex or sexual orientation, or any other reason.</p>
@@ -77,52 +88,18 @@
 </div>
 </div>			</div>
 </article>
-												</div>
 
+												</div>
 		<div class="col-12 col-lg-5 col-xl-4">
 			<div class="sidebar">
-	<section id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://www.palettepoetry.com/">
-				<label>
-					<span class="screen-reader-text">Search for:</span>
-					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
-				</label>
-				<input type="submit" class="search-submit" value="Search" />
-			</form></section><section id="pp-submit-2" class="widget widget-pp-submit"><h2 class='text-dark'>Share Your Poetry</h2><p>Always free. Always open. $50 per poem selected.</p><a href='../submit/index.php' class='btn btn-white'>Submit</a></section><section id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>
-			<ul>
-					<li class="cat-item cat-item-22"><a href="../columns/alan-chazaros-pocho-boy/index.php">Alan Chazaro&#039;s Pocho Boy</a>
-</li>
-	<li class="cat-item cat-item-26"><a href="../columns/chelsea-dingmans-intersection/index.php">Chelsea Dingman&#039;s Intersection</a>
-</li>
-	<li class="cat-item cat-item-18"><a href="../contest-winner/index.php">Contest Winner</a>
-</li>
-	<li class="cat-item cat-item-24"><a href="../curated-deadlines/index.php">Curated Deadlines</a>
-</li>
-	<li class="cat-item cat-item-14"><a href="../essay/index.php">Essay</a>
-</li>
-	<li class="cat-item cat-item-19"><a href="../feedback/index.php">Feedback</a>
-</li>
-	<li class="cat-item cat-item-20"><a href="../columns/franny-chois-periodic/index.php">Franny Choi&#039;s Periodic</a>
-</li>
-	<li class="cat-item cat-item-15"><a href="../interview/index.php">Interview</a>
-</li>
-	<li class="cat-item cat-item-30"><a href="../columns/khalisa-raes-knee-length/index.php">Khalisa Rae&#039;s Knee Length</a>
-</li>
-	<li class="cat-item cat-item-16"><a href="../note-from-the-editors/index.php">Note From the Editors</a>
-</li>
-	<li class="cat-item cat-item-3"><a href="../poetry/index.php" title="We are so grateful to all of our partner-poets for sharing their work with us—please enjoy their beautiful words in our Featured Poetry catalogue.">Poetry</a>
-</li>
-	<li class="cat-item cat-item-25"><a href="../poetry/poetry-we-admire/index.php">Poetry We Admire</a>
-</li>
-	<li class="cat-item cat-item-27"><a href="../columns/robin-myers-the-guest/index.php">Robin Myers&#039; The Guest</a>
-</li>
-	<li class="cat-item cat-item-28"><a href="../columns/tiffany-osedra-millers-goatwater/index.php">Tiffany Osedra Miller&#039;s Goatwater</a>
-</li>
-	<li class="cat-item cat-item-29"><a href="../poetry/voices-for-change/index.php">Voices for Change</a>
-</li>
-			</ul>
 
-			</section></div>
+				<?php 
+					include 'navigation/sidebar.php';
+				?>
+
+			</div>
 		</div>
+
 	</div>
 </div>
 

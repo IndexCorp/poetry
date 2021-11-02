@@ -4,6 +4,7 @@
 <!-- Mirrored from www.palettepoetry.com/poetry/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Oct 2021 18:01:38 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
+<!-- <base href="<BASE_URL;?>"> -->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
@@ -11,7 +12,7 @@
 	<!-- This site is optimized with the Yoast SEO plugin v17.4 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Poetry Archives - Palette Poetry</title>
 	<link rel="canonical" href="index.php" />
-	<link rel="next" href="page/2/index.php" />
+	<link rel="next" href="index.php" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Poetry Archives - Palette Poetry" />
@@ -19,15 +20,15 @@
 	<meta property="og:url" content="index.php" />
 	<meta property="og:site_name" content="Palette Poetry" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.palettepoetry.com/#website","url":"https://www.palettepoetry.com/","name":"Palette Poetry","description":"Your SUPER-powered WP Engine Blog","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.palettepoetry.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://www.palettepoetry.com/poetry/#webpage","url":"https://www.palettepoetry.com/poetry/","name":"Poetry Archives - Palette Poetry","isPartOf":{"@id":"https://www.palettepoetry.com/#website"},"breadcrumb":{"@id":"https://www.palettepoetry.com/poetry/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.palettepoetry.com/poetry/"]}]},{"@type":"BreadcrumbList","@id":"https://www.palettepoetry.com/poetry/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.palettepoetry.com/"},{"@type":"ListItem","position":2,"name":"Poetry"}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.palettepoetry.com/#website","url":"https://www.palettepoetry.com/","name":"Palette Poetry","description":"Your SUPER-powered WP Engine Blog","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.palettepoetry.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.palettepoetry.com/current-contests/#primaryimage","inLanguage":"en-US","url":"https://www.palettepoetry.com/wp-content/uploads/2021/08/PALETTEPOETRYLOVEEROSPRIZE2021_2.jpg","contentUrl":"https://www.palettepoetry.com/wp-content/uploads/2021/08/PALETTEPOETRYLOVEEROSPRIZE2021_2.jpg","width":1000,"height":587,"caption":"2021 Love & Eros Prize, judged by Kaveh Akbar, awarding $3500, deadline: October 18th, 2021"},{"@type":"WebPage","@id":"https://www.palettepoetry.com/current-contests/#webpage","url":"https://www.palettepoetry.com/current-contests/","name":"The Love & Eros Prize - Palette Poetry","isPartOf":{"@id":"https://www.palettepoetry.com/#website"},"primaryImageOfPage":{"@id":"https://www.palettepoetry.com/current-contests/#primaryimage"},"datePublished":"2018-02-20T22:42:05+00:00","dateModified":"2021-10-20T04:25:33+00:00","description":"We are thrilled to offer the 2021 Love & Eros Prize: $3500 and publication! The final judge this year is Kaveh Akbar.","breadcrumb":{"@id":"https://www.palettepoetry.com/current-contests/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.palettepoetry.com/current-contests/"]}]},{"@type":"BreadcrumbList","@id":"https://www.palettepoetry.com/current-contests/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.palettepoetry.com/"},{"@type":"ListItem","position":2,"name":"The Love &#038; Eros&nbsp;Prize"}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-<link rel="alternate" type="application/rss+xml" title="Palette Poetry &raquo; Feed" href="feed/index.php" />
-<link rel="alternate" type="application/rss+xml" title="Palette Poetry &raquo; Poetry Category Feed" href="feed/index.php" />
+<link rel="alternate" type="application/rss+xml" title="Palette Poetry &raquo; Feed" href="assets/feed.php" />
+<link rel="alternate" type="application/rss+xml" title="Palette Poetry &raquo; Poetry Category Feed" href="assets/feed.php" />
 		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.1.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
-							<script src="http://www.googletagmanager.com/gtag/js?id=UA-36361405-3"  type="text/javascript" data-cfasync="false" async></script>
+	<script src="http://www.googletagmanager.com/gtag/js?id=UA-36361405-3"  type="text/javascript" data-cfasync="false" async></script>
 			<script type="text/javascript" data-cfasync="false">
 				var mi_version = '8.1.0';
 				var mi_track_user = true;
@@ -216,6 +217,8 @@
 			</script>
 				<!-- / Google Analytics by MonsterInsights -->
 		<link rel='stylesheet' id='wp-block-library-css'  href='25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-includes/css/dist/block-library/style.min76f3.css?ver=5.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-builder-layout-6-css'  href='25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/bb-plugin/cache/6-layout0bb9.css?ver=a8505d8fa7910869e2a75ec1b73fd472' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-builder-layout-9-css'  href='25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/bb-plugin/cache/9-layout2bd6.css?ver=f1db22025e7eb8cce6bda37795c2a4f9' type='text/css' media='all' />
 <link rel='stylesheet' id='pp-fonts-css'  href='https://fonts.googleapis.com/css?family=Nunito+Sans%3A200%2C400%2C400i%2C700%2C700i%7CRoboto%7CCrimson+Text%3A400%2C400i%2C700%2C700i&amp;ver=5.7.3' type='text/css' media='all' />
 <link rel='stylesheet' id='pp-css'  href='25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/themes/pp18/assets/dist/pp3f64.css?ver=1529002607' type='text/css' media='all' />
 <script type='text/javascript' id='monsterinsights-frontend-script-js-extra'>
@@ -226,7 +229,9 @@ var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions
 <script type='text/javascript' src='25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.minafbb.js?ver=8.1.0' id='monsterinsights-frontend-script-js'></script>
 <script type='text/javascript' src='25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.min9d52.js?ver=3.5.1' id='jquery-core-js'></script>
 <script type='text/javascript' src='25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<link rel="https://api.w.org/" href="wp-json/index.php" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/categories/3.html" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.html?rsd" />
+<link rel="https://api.w.org/" href="wp-json.php" />
+<link rel="alternate" type="application/json" href="wp-json/wp/v2/categories/3.html" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.html?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 
 <!-- Google Tag Manager -->
@@ -236,7 +241,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-NG9KQGB');</script>
 <!-- End Google Tag Manager -->
-<style>html { border-color: #5c84a0; }</style><link rel="icon" href="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/favicon-200x200.png" sizes="32x32" />
+
+<style>html { border-color: #5c84a0; }</style>
+<link rel="icon" href="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/favicon-200x200.png" sizes="32x32" />
 <link rel="icon" href="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/favicon-200x200.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/favicon-200x200.png" />
 <meta name="msapplication-TileImage" content="https://www.palettepoetry.com/wp-content/uploads/2018/04/favicon.png" />
@@ -258,7 +265,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<li id="menu-item-783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-783"><a href="current-contests.php">The Love &#038;&nbsp;Eros Prize</a></li>
 				<li id="menu-item-2282" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2282"><a href="columns.php">Columns</a></li>
 				<li id="menu-item-733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-733"><a href="about-us.php">About&nbsp;Us</a></li>
-				<li id="menu-item-2269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2269"><a href="previous.php">Previous&nbsp;Contests</a></li>
+				<li id="menu-item-2269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2269"><a href="previous-contests.php">Previous&nbsp;Contests</a></li>
 				<li id="menu-item-2268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2268"><a href="calendar.php">Calendar</a></li>
 				<li id="menu-item-13" class="menu-btn menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="submit.php">Submit</a></li>
 				</ul>

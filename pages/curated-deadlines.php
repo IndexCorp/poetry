@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<!-- Mirrored from www.palettepoetry.com/curated-deadlines/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Oct 2021 18:04:26 GMT -->
+<!-- Mirrored from www.palettepoetry.com/pages/curated-deadlines/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Oct 2021 18:04:26 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 	<meta charset="UTF-8">
@@ -11,20 +11,20 @@
 	<!-- This site is optimized with the Yoast SEO plugin v17.4 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Curated Deadlines Archives - Palette Poetry</title>
 	<link rel="canonical" href="index.php" />
-	<link rel="next" href="page/2/index.php" />
+	<link rel="next" href="page/2.php" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Curated Deadlines Archives - Palette Poetry" />
 	<meta property="og:url" content="index.php" />
 	<meta property="og:site_name" content="Palette Poetry" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.palettepoetry.com/#website","url":"https://www.palettepoetry.com/","name":"Palette Poetry","description":"Your SUPER-powered WP Engine Blog","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.palettepoetry.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://www.palettepoetry.com/curated-deadlines/#webpage","url":"https://www.palettepoetry.com/curated-deadlines/","name":"Curated Deadlines Archives - Palette Poetry","isPartOf":{"@id":"https://www.palettepoetry.com/#website"},"breadcrumb":{"@id":"https://www.palettepoetry.com/curated-deadlines/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.palettepoetry.com/curated-deadlines/"]}]},{"@type":"BreadcrumbList","@id":"https://www.palettepoetry.com/curated-deadlines/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.palettepoetry.com/"},{"@type":"ListItem","position":2,"name":"Curated Deadlines"}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.palettepoetry.com/#website","url":"https://www.palettepoetry.com/","name":"Palette Poetry","description":"Your SUPER-powered WP Engine Blog","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.palettepoetry.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://www.palettepoetry.com/pages/curated-deadlines/#webpage","url":"https://www.palettepoetry.com/pages/curated-deadlines/","name":"Curated Deadlines Archives - Palette Poetry","isPartOf":{"@id":"https://www.palettepoetry.com/#website"},"breadcrumb":{"@id":"https://www.palettepoetry.com/pages/curated-deadlines/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.palettepoetry.com/pages/curated-deadlines/"]}]},{"@type":"BreadcrumbList","@id":"https://www.palettepoetry.com/pages/curated-deadlines/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.palettepoetry.com/"},{"@type":"ListItem","position":2,"name":"Curated Deadlines"}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-<link rel="alternate" type="application/rss+xml" title="Palette Poetry &raquo; Feed" href="../feed/index.php" />
-<link rel="alternate" type="application/rss+xml" title="Palette Poetry &raquo; Curated Deadlines Category Feed" href="feed/index.php" />
+<link rel="alternate" type="application/rss+xml" title="Palette Poetry &raquo; Feed" href="feed.php" />
+<link rel="alternate" type="application/rss+xml" title="Palette Poetry &raquo; Curated Deadlines Category Feed" href="feed.php" />
 		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.1.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
 							<script src="http://www.googletagmanager.com/gtag/js?id=UA-36361405-3"  type="text/javascript" data-cfasync="false" async></script>
 			<script type="text/javascript" data-cfasync="false">
@@ -214,52 +214,52 @@
 									}
 			</script>
 				<!-- / Google Analytics by MonsterInsights -->
-		<link rel='stylesheet' id='wp-block-library-css'  href='../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-includes/css/dist/block-library/style.min76f3.css?ver=5.7.3' type='text/css' media='all' />
+		<link rel='stylesheet' id='wp-block-library-css'  href='25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-includes/css/dist/block-library/style.min76f3.css?ver=5.7.3' type='text/css' media='all' />
 <link rel='stylesheet' id='pp-fonts-css'  href='https://fonts.googleapis.com/css?family=Nunito+Sans%3A200%2C400%2C400i%2C700%2C700i%7CRoboto%7CCrimson+Text%3A400%2C400i%2C700%2C700i&amp;ver=5.7.3' type='text/css' media='all' />
-<link rel='stylesheet' id='pp-css'  href='../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/themes/pp18/assets/dist/pp3f64.css?ver=1529002607' type='text/css' media='all' />
+<link rel='stylesheet' id='pp-css'  href='25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/themes/pp18/assets/dist/pp3f64.css?ver=1529002607' type='text/css' media='all' />
 <script type='text/javascript' id='monsterinsights-frontend-script-js-extra'>
 /* <![CDATA[ */
 var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/www.palettepoetry.com","hash_tracking":"false","ua":"UA-36361405-3","v4_id":""};
 /* ]]> */
 </script>
-<script type='text/javascript' src='../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.minafbb.js?ver=8.1.0' id='monsterinsights-frontend-script-js'></script>
-<script type='text/javascript' src='../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.min9d52.js?ver=3.5.1' id='jquery-core-js'></script>
-<script type='text/javascript' src='../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<link rel="https://api.w.org/" href="../wp-json/index.php" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/categories/24.html" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.html?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
+<script type='text/javascript' src='25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.minafbb.js?ver=8.1.0' id='monsterinsights-frontend-script-js'></script>
+<script type='text/javascript' src='25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.min9d52.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="wp-json.php" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/categories/24.html" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.html?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'../../www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
+'www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-NG9KQGB');</script>
 <!-- End Google Tag Manager -->
-<style>html { border-color: #fea14c; }</style><link rel="icon" href="../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/favicon-200x200.png" sizes="32x32" />
-<link rel="icon" href="../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/favicon-200x200.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/favicon-200x200.png" />
+<style>html { border-color: #fea14c; }</style><link rel="icon" href="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/favicon-200x200.png" sizes="32x32" />
+<link rel="icon" href="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/favicon-200x200.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/favicon-200x200.png" />
 <meta name="msapplication-TileImage" content="https://www.palettepoetry.com/wp-content/uploads/2018/04/favicon.png" />
 </head>
 
-<body class="archive category category-curated-deadlines category-24">
+<body class="archive category category-pages/curated-deadlines category-24">
 	<div class="site-fixed-logo-container container">
-		<a href="../index.php" class="site-fixed-logo">Palette Poetry</a>
+		<a href="index.php" class="site-fixed-logo">Palette Poetry</a>
 	</div>
 
 	<header class="site-header text-dark">
 		<div class="container position-relative d-flex justify-content-between align-items-lg-center py-3 py-lg-0">
-			<a href="../index.php" class="site-header-logo align-self-start align-self-lg-center">
+			<a href="index.php" class="site-header-logo align-self-start align-self-lg-center">
 				<img src="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/themes/pp18/assets/img/logo-squares.svg" alt="Palette Poetry">
 			</a>
 
 			<nav class="w-100 d-flex flex-wrap justify-content-end align-items-center">
-				<ul id="menu-main-menu" class="menu list-unstyled d-lg-flex flex-wrap align-items-center mb-0"><li id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12"><a href="../poetry/index.php">Poetry</a></li>
-<li id="menu-item-783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-783"><a href="../current-contest/index.php">The Love &#038;&nbsp;Eros Prize</a></li>
-<li id="menu-item-2282" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2282"><a href="../columns/index.php">Columns</a></li>
-<li id="menu-item-733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-733"><a href="../about-us/index.php">About&nbsp;Us</a></li>
-<li id="menu-item-2269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2269"><a href="../previous-contests/index.php">Previous&nbsp;Contests</a></li>
-<li id="menu-item-2268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2268"><a href="../calendar/index.php">Calendar</a></li>
-<li id="menu-item-13" class="menu-btn menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="../submit/index.php">Submit</a></li>
+				<ul id="menu-main-menu" class="menu list-unstyled d-lg-flex flex-wrap align-items-center mb-0"><li id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12"><a href="poetry.php">Poetry</a></li>
+<li id="menu-item-783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-783"><a href="current-contests.php">The Love &#038;&nbsp;Eros Prize</a></li>
+<li id="menu-item-2282" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2282"><a href="poetry.php">Columns</a></li>
+<li id="menu-item-733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-733"><a href="about-us.php">About&nbsp;Us</a></li>
+<li id="menu-item-2269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2269"><a href="previous-contests.php">Previous&nbsp;Contests</a></li>
+<li id="menu-item-2268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2268"><a href="calendar.php">Calendar</a></li>
+<li id="menu-item-13" class="menu-btn menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="submit.php">Submit</a></li>
 </ul>
 				
 <ul class="social list-unstyled d-flex mb-0">
@@ -299,116 +299,116 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="masonry-cols">
 					<div class="masonry-col">
 				<style>#card-2350 .img-lumin { mix-blend-mode: normal; }#card-2350 { background-color: #fea14c; }#item-2350 h1, #item-2350 a:hover, #entry-2350 blockquote { color: #fea14c; }</style>
-<article id="card-2350" class="card post-2350 post type-post status-publish format-standard has-post-thumbnail hentry category-curated-deadlines" data-reveal>
-	<a href="../2021/10/15/deadlines-october-november-2/index.php" class="card-img">
-		<img width="600" height="361" src="../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd-600x361.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd-600x361.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd-768x462.jpg 768w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd.jpg 1500w" sizes="(max-width: 600px) 100vw, 600px" />		<div class="img-lumin-overlay" style="background-image: url(../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd-600x361.jpg)"></div>
+<article id="card-2350" class="card post-2350 post type-post status-publish format-standard has-post-thumbnail hentry category-pages/curated-deadlines" data-reveal>
+	<a href="2021/10/15/deadlines-october-november-2.php" class="card-img">
+		<img width="600" height="361" src="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd-600x361.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd-600x361.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd-768x462.jpg 768w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd.jpg 1500w" sizes="(max-width: 600px) 100vw, 600px" />		<div class="img-lumin-overlay" style="background-image: url(25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd-600x361.jpg)"></div>
 	</a>
 
 	<p class="item-meta"><a href="index.php" rel="category tag">Curated Deadlines</a></p>
-	<h1 class="h2"><a href="../2021/10/15/deadlines-october-november-2/index.php">Deadlines: October &#038;&nbsp;November</a></h1>	<p>By <a href="../author/palette-poetry/index.php" title="Posts by Palette Poetry" rel="author">Palette Poetry</a></p>
+	<h1 class="h2"><a href="2021/10/15/deadlines-october-november-2.php">Deadlines: October &#038;&nbsp;November</a></h1>	<p>By <a href="author/palette-poetry.php" title="Posts by Palette Poetry" rel="author">Palette Poetry</a></p>
 	<p>Every middle of the month: new deadlines, new contests, and new opportunities for your voice to find the world. The next few weeks include: Palette&#8217;s Love &#038; Eros Prize, Frontier&#8217;s Industry Prize, other great contests, and submission&nbsp;opportunities.</p>	<p><a href="#" class="item-meta">Read More &rsaquo;</a></p>
 </article>
 			</div>
 					<div class="masonry-col">
 				<style>#card-2321 .img-lumin { mix-blend-mode: normal; }#card-2321 { background-color: #8e4556; }#item-2321 h1, #item-2321 a:hover, #entry-2321 blockquote { color: #8e4556; }</style>
-<article id="card-2321" class="card post-2321 post type-post status-publish format-standard has-post-thumbnail hentry category-curated-deadlines" data-reveal>
-	<a href="../2021/09/15/deadlines-september-october-2/index.php" class="card-img">
-		<img width="600" height="361" src="../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd-600x361.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd-600x361.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd-768x462.jpg 768w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd.jpg 1500w" sizes="(max-width: 600px) 100vw, 600px" />		<div class="img-lumin-overlay" style="background-image: url(../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd-600x361.jpg)"></div>
+<article id="card-2321" class="card post-2321 post type-post status-publish format-standard has-post-thumbnail hentry category-pages/curated-deadlines" data-reveal>
+	<a href="2021/09/15/deadlines-september-october-2.php" class="card-img">
+		<img width="600" height="361" src="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd-600x361.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd-600x361.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd-768x462.jpg 768w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd.jpg 1500w" sizes="(max-width: 600px) 100vw, 600px" />		<div class="img-lumin-overlay" style="background-image: url(25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/MonthlyDeadlines_SEPTEMBEROCTOBERpsd-600x361.jpg)"></div>
 	</a>
 
 	<p class="item-meta"><a href="index.php" rel="category tag">Curated Deadlines</a></p>
-	<h1 class="h2"><a href="../2021/09/15/deadlines-september-october-2/index.php">Deadlines: September &#038;&nbsp;October</a></h1>	<p>By <a href="../author/palette-poetry/index.php" title="Posts by Palette Poetry" rel="author">Palette Poetry</a></p>
+	<h1 class="h2"><a href="2021/09/15/deadlines-september-october-2.php">Deadlines: September &#038;&nbsp;October</a></h1>	<p>By <a href="author/palette-poetry.php" title="Posts by Palette Poetry" rel="author">Palette Poetry</a></p>
 	<p>Every middle of the month: new deadlines, new contests, and new opportunities for your voice to find the&nbsp;&hellip;</p>	<p><a href="#" class="item-meta">Read More &rsaquo;</a></p>
 </article>
 			</div>
 					<div class="masonry-col">
 				<style>#card-2160 .img-lumin { mix-blend-mode: normal; }#card-2160 { background-color: #fdd769; }#item-2160 h1, #item-2160 a:hover, #entry-2160 blockquote { color: #fdd769; }</style>
-<article id="card-2160" class="card post-2160 post type-post status-publish format-standard has-post-thumbnail hentry category-curated-deadlines" data-reveal>
-	<a href="../2021/06/15/deadlines-june-july-2/index.php" class="card-img">
-		<img width="600" height="361" src="../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/MonthlyDeadlines_JUNEJULY-copy-600x361.jpg" class="img-lumin w-100 wp-post-image" alt="monthly deadlines for june and july" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/MonthlyDeadlines_JUNEJULY-copy-600x361.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/MonthlyDeadlines_JUNEJULY-copy-768x462.jpg 768w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/MonthlyDeadlines_JUNEJULY-copy.jpg 1500w" sizes="(max-width: 600px) 100vw, 600px" />		<div class="img-lumin-overlay" style="background-image: url(../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/MonthlyDeadlines_JUNEJULY-copy-600x361.jpg)"></div>
+<article id="card-2160" class="card post-2160 post type-post status-publish format-standard has-post-thumbnail hentry category-pages/curated-deadlines" data-reveal>
+	<a href="2021/06/15/deadlines-june-july-2.php" class="card-img">
+		<img width="600" height="361" src="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/MonthlyDeadlines_JUNEJULY-copy-600x361.jpg" class="img-lumin w-100 wp-post-image" alt="monthly deadlines for june and july" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/MonthlyDeadlines_JUNEJULY-copy-600x361.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/MonthlyDeadlines_JUNEJULY-copy-768x462.jpg 768w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/MonthlyDeadlines_JUNEJULY-copy.jpg 1500w" sizes="(max-width: 600px) 100vw, 600px" />		<div class="img-lumin-overlay" style="background-image: url(25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/MonthlyDeadlines_JUNEJULY-copy-600x361.jpg)"></div>
 	</a>
 
 	<p class="item-meta"><a href="index.php" rel="category tag">Curated Deadlines</a></p>
-	<h1 class="h2"><a href="../2021/06/15/deadlines-june-july-2/index.php">Deadlines: June &#038;&nbsp;July</a></h1>	<p>By <a href="../author/palette-poetry/index.php" title="Posts by Palette Poetry" rel="author">Palette Poetry</a></p>
+	<h1 class="h2"><a href="2021/06/15/deadlines-june-july-2.php">Deadlines: June &#038;&nbsp;July</a></h1>	<p>By <a href="author/palette-poetry.php" title="Posts by Palette Poetry" rel="author">Palette Poetry</a></p>
 	<p>Every middle of the month: new deadlines, new contests, and new opportunities for your voice to find the&nbsp;&hellip;</p>	<p><a href="#" class="item-meta">Read More &rsaquo;</a></p>
 </article>
 			</div>
 					<div class="masonry-col">
 				<style>#card-1960 .img-lumin { mix-blend-mode: normal; }#card-1960 { background-color: #a73e67; }#item-1960 h1, #item-1960 a:hover, #entry-1960 blockquote { color: #a73e67; }</style>
-<article id="card-1960" class="card post-1960 post type-post status-publish format-standard has-post-thumbnail hentry category-curated-deadlines" data-reveal>
-	<a href="../2021/01/15/deadlines-january-february-2021/index.php" class="card-img">
-		<img width="600" height="361" src="../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/MonthlyDeadlines_JANFEB-600x361.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/MonthlyDeadlines_JANFEB-600x361.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/MonthlyDeadlines_JANFEB-768x462.jpg 768w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/MonthlyDeadlines_JANFEB.jpg 1500w" sizes="(max-width: 600px) 100vw, 600px" />		<div class="img-lumin-overlay" style="background-image: url(../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/MonthlyDeadlines_JANFEB-600x361.jpg)"></div>
+<article id="card-1960" class="card post-1960 post type-post status-publish format-standard has-post-thumbnail hentry category-pages/curated-deadlines" data-reveal>
+	<a href="2021/01/15/deadlines-january-february-2021.php" class="card-img">
+		<img width="600" height="361" src="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/MonthlyDeadlines_JANFEB-600x361.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/MonthlyDeadlines_JANFEB-600x361.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/MonthlyDeadlines_JANFEB-768x462.jpg 768w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/MonthlyDeadlines_JANFEB.jpg 1500w" sizes="(max-width: 600px) 100vw, 600px" />		<div class="img-lumin-overlay" style="background-image: url(25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/MonthlyDeadlines_JANFEB-600x361.jpg)"></div>
 	</a>
 
 	<p class="item-meta"><a href="index.php" rel="category tag">Curated Deadlines</a></p>
-	<h1 class="h2"><a href="../2021/01/15/deadlines-january-february-2021/index.php">Deadlines: January &#038; February&nbsp;2021</a></h1>	<p>By <a href="../author/palette-poetry/index.php" title="Posts by Palette Poetry" rel="author">Palette Poetry</a></p>
+	<h1 class="h2"><a href="2021/01/15/deadlines-january-february-2021.php">Deadlines: January &#038; February&nbsp;2021</a></h1>	<p>By <a href="author/palette-poetry.php" title="Posts by Palette Poetry" rel="author">Palette Poetry</a></p>
 	<p>Every middle of the month: new deadlines, new contests, and new opportunities for your voice to find the&nbsp;&hellip;</p>	<p><a href="#" class="item-meta">Read More &rsaquo;</a></p>
 </article>
 			</div>
 					<div class="masonry-col">
 				<style>#card-1873 .img-lumin { mix-blend-mode: normal; }#card-1873 { background-color: #5c84a0; }#item-1873 h1, #item-1873 a:hover, #entry-1873 blockquote { color: #5c84a0; }</style>
-<article id="card-1873" class="card post-1873 post type-post status-publish format-standard has-post-thumbnail hentry category-curated-deadlines" data-reveal>
-	<a href="../2020/11/15/deadlines-november-december-2020/index.php" class="card-img">
-		<img width="600" height="361" src="../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/MonthlyDeadlines_NOVDEC-1-600x361.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/MonthlyDeadlines_NOVDEC-1-600x361.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/MonthlyDeadlines_NOVDEC-1-768x462.jpg 768w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/MonthlyDeadlines_NOVDEC-1.jpg 1500w" sizes="(max-width: 600px) 100vw, 600px" />		<div class="img-lumin-overlay" style="background-image: url(../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/MonthlyDeadlines_NOVDEC-1-600x361.jpg)"></div>
+<article id="card-1873" class="card post-1873 post type-post status-publish format-standard has-post-thumbnail hentry category-pages/curated-deadlines" data-reveal>
+	<a href="2020/11/15/deadlines-november-december-2020.php" class="card-img">
+		<img width="600" height="361" src="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/MonthlyDeadlines_NOVDEC-1-600x361.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/MonthlyDeadlines_NOVDEC-1-600x361.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/MonthlyDeadlines_NOVDEC-1-768x462.jpg 768w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/MonthlyDeadlines_NOVDEC-1.jpg 1500w" sizes="(max-width: 600px) 100vw, 600px" />		<div class="img-lumin-overlay" style="background-image: url(25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/MonthlyDeadlines_NOVDEC-1-600x361.jpg)"></div>
 	</a>
 
 	<p class="item-meta"><a href="index.php" rel="category tag">Curated Deadlines</a></p>
-	<h1 class="h2"><a href="../2020/11/15/deadlines-november-december-2020/index.php">Deadlines: November &#038; December&nbsp;2020</a></h1>	<p>By <a href="../author/palette-poetry/index.php" title="Posts by Palette Poetry" rel="author">Palette Poetry</a></p>
+	<h1 class="h2"><a href="2020/11/15/deadlines-november-december-2020.php">Deadlines: November &#038; December&nbsp;2020</a></h1>	<p>By <a href="author/palette-poetry.php" title="Posts by Palette Poetry" rel="author">Palette Poetry</a></p>
 	<p>Every middle of the month: new deadlines, new contests, and new opportunities for your voice to find the&nbsp;&hellip;</p>	<p><a href="#" class="item-meta">Read More &rsaquo;</a></p>
 </article>
 			</div>
 					<div class="masonry-col">
 				<style>#card-1809 .img-lumin { mix-blend-mode: normal; }#card-1809 { background-color: #8560db; }#item-1809 h1, #item-1809 a:hover, #entry-1809 blockquote { color: #8560db; }</style>
-<article id="card-1809" class="card post-1809 post type-post status-publish format-standard has-post-thumbnail hentry category-curated-deadlines" data-reveal>
-	<a href="../2020/10/15/deadlines-october-november-2020/index.php" class="card-img">
-		<img width="600" height="361" src="../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/MonthlyDeadlines_OCTNOV-600x361.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/MonthlyDeadlines_OCTNOV-600x361.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/MonthlyDeadlines_OCTNOV-768x462.jpg 768w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/MonthlyDeadlines_OCTNOV.jpg 1500w" sizes="(max-width: 600px) 100vw, 600px" />		<div class="img-lumin-overlay" style="background-image: url(../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/MonthlyDeadlines_OCTNOV-600x361.jpg)"></div>
+<article id="card-1809" class="card post-1809 post type-post status-publish format-standard has-post-thumbnail hentry category-pages/curated-deadlines" data-reveal>
+	<a href="2020/10/15/deadlines-october-november-2020.php" class="card-img">
+		<img width="600" height="361" src="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/MonthlyDeadlines_OCTNOV-600x361.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/MonthlyDeadlines_OCTNOV-600x361.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/MonthlyDeadlines_OCTNOV-768x462.jpg 768w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/MonthlyDeadlines_OCTNOV.jpg 1500w" sizes="(max-width: 600px) 100vw, 600px" />		<div class="img-lumin-overlay" style="background-image: url(25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/MonthlyDeadlines_OCTNOV-600x361.jpg)"></div>
 	</a>
 
 	<p class="item-meta"><a href="index.php" rel="category tag">Curated Deadlines</a></p>
-	<h1 class="h2"><a href="../2020/10/15/deadlines-october-november-2020/index.php">Deadlines: October &#038; November&nbsp;2020</a></h1>	<p>By <a href="../author/palette-poetry/index.php" title="Posts by Palette Poetry" rel="author">Palette Poetry</a></p>
+	<h1 class="h2"><a href="2020/10/15/deadlines-october-november-2020.php">Deadlines: October &#038; November&nbsp;2020</a></h1>	<p>By <a href="author/palette-poetry.php" title="Posts by Palette Poetry" rel="author">Palette Poetry</a></p>
 	<p>Every middle of the month: new deadlines, new contests, and new opportunities for your voice to find the&nbsp;&hellip;</p>	<p><a href="#" class="item-meta">Read More &rsaquo;</a></p>
 </article>
 			</div>
 					<div class="masonry-col">
 				<style>#card-1743 .img-lumin { mix-blend-mode: normal; }#card-1743 { background-color: #fdbc48; }#item-1743 h1, #item-1743 a:hover, #entry-1743 blockquote { color: #fdbc48; }</style>
-<article id="card-1743" class="card post-1743 post type-post status-publish format-standard has-post-thumbnail hentry category-curated-deadlines" data-reveal>
-	<a href="../2020/09/15/deadlines-september-october-2020/index.php" class="card-img">
-		<img width="600" height="361" src="../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/MonthlyDeadlines_SEPTOCT-1-600x361.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/MonthlyDeadlines_SEPTOCT-1-600x361.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/MonthlyDeadlines_SEPTOCT-1-768x462.jpg 768w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/MonthlyDeadlines_SEPTOCT-1.jpg 1500w" sizes="(max-width: 600px) 100vw, 600px" />		<div class="img-lumin-overlay" style="background-image: url(../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/MonthlyDeadlines_SEPTOCT-1-600x361.jpg)"></div>
+<article id="card-1743" class="card post-1743 post type-post status-publish format-standard has-post-thumbnail hentry category-pages/curated-deadlines" data-reveal>
+	<a href="2020/09/15/deadlines-september-october-2020.php" class="card-img">
+		<img width="600" height="361" src="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/MonthlyDeadlines_SEPTOCT-1-600x361.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/MonthlyDeadlines_SEPTOCT-1-600x361.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/MonthlyDeadlines_SEPTOCT-1-768x462.jpg 768w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/MonthlyDeadlines_SEPTOCT-1.jpg 1500w" sizes="(max-width: 600px) 100vw, 600px" />		<div class="img-lumin-overlay" style="background-image: url(25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/MonthlyDeadlines_SEPTOCT-1-600x361.jpg)"></div>
 	</a>
 
 	<p class="item-meta"><a href="index.php" rel="category tag">Curated Deadlines</a></p>
-	<h1 class="h2"><a href="../2020/09/15/deadlines-september-october-2020/index.php">Deadlines: September &#038; October&nbsp;2020</a></h1>	<p>By <a href="../author/palette-poetry/index.php" title="Posts by Palette Poetry" rel="author">Palette Poetry</a></p>
+	<h1 class="h2"><a href="2020/09/15/deadlines-september-october-2020.php">Deadlines: September &#038; October&nbsp;2020</a></h1>	<p>By <a href="author/palette-poetry.php" title="Posts by Palette Poetry" rel="author">Palette Poetry</a></p>
 	<p>Every middle of the month: new deadlines, new contests, and new opportunities for your voice to find the&nbsp;&hellip;</p>	<p><a href="#" class="item-meta">Read More &rsaquo;</a></p>
 </article>
 			</div>
 					<div class="masonry-col">
 				<style>#card-1618 .img-lumin { mix-blend-mode: normal; }#card-1618 { background-color: #5c84a0; }#item-1618 h1, #item-1618 a:hover, #entry-1618 blockquote { color: #5c84a0; }</style>
-<article id="card-1618" class="card post-1618 post type-post status-publish format-standard has-post-thumbnail hentry category-curated-deadlines" data-reveal>
-	<a href="../2020/08/16/deadlines-august-september-2020/index.php" class="card-img">
-		<img width="600" height="361" src="../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/MonthlyDeadlines_AUGSEPT-600x361.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/MonthlyDeadlines_AUGSEPT-600x361.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/MonthlyDeadlines_AUGSEPT-768x462.jpg 768w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/MonthlyDeadlines_AUGSEPT.jpg 1500w" sizes="(max-width: 600px) 100vw, 600px" />		<div class="img-lumin-overlay" style="background-image: url(../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/MonthlyDeadlines_AUGSEPT-600x361.jpg)"></div>
+<article id="card-1618" class="card post-1618 post type-post status-publish format-standard has-post-thumbnail hentry category-pages/curated-deadlines" data-reveal>
+	<a href="2020/08/16/deadlines-august-september-2020.php" class="card-img">
+		<img width="600" height="361" src="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/MonthlyDeadlines_AUGSEPT-600x361.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/MonthlyDeadlines_AUGSEPT-600x361.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/MonthlyDeadlines_AUGSEPT-768x462.jpg 768w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/MonthlyDeadlines_AUGSEPT.jpg 1500w" sizes="(max-width: 600px) 100vw, 600px" />		<div class="img-lumin-overlay" style="background-image: url(25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/MonthlyDeadlines_AUGSEPT-600x361.jpg)"></div>
 	</a>
 
 	<p class="item-meta"><a href="index.php" rel="category tag">Curated Deadlines</a></p>
-	<h1 class="h2"><a href="../2020/08/16/deadlines-august-september-2020/index.php">Deadlines: August &#038;&nbsp;September</a></h1>	<p>By <a href="../author/palette-poetry/index.php" title="Posts by Palette Poetry" rel="author">Palette Poetry</a></p>
+	<h1 class="h2"><a href="2020/08/16/deadlines-august-september-2020.php">Deadlines: August &#038;&nbsp;September</a></h1>	<p>By <a href="author/palette-poetry.php" title="Posts by Palette Poetry" rel="author">Palette Poetry</a></p>
 	<p>Every middle of the month: new deadlines, new contests, and new opportunities for your voice to find the world. The next six weeks include: our own Palette Poetry Prize, Pank Book Awards, Black Warrior Review, Asian American Literary Review, multiple residencies and grants, and&nbsp;more.</p>	<p><a href="#" class="item-meta">Read More &rsaquo;</a></p>
 </article>
 			</div>
 					<div class="masonry-col">
 				<style>#card-1547 .img-lumin { mix-blend-mode: normal; }#card-1547 { background-color: #fdd769; }#item-1547 h1, #item-1547 a:hover, #entry-1547 blockquote { color: #fdd769; }</style>
-<article id="card-1547" class="card post-1547 post type-post status-publish format-standard has-post-thumbnail hentry category-curated-deadlines" data-reveal>
-	<a href="../2020/04/15/deadlines-april-may-2020/index.php" class="card-img">
-		<img width="600" height="361" src="../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/1MonthlyDeadlines_APRILMAY-1-600x361.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/1MonthlyDeadlines_APRILMAY-1-600x361.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/1MonthlyDeadlines_APRILMAY-1-768x462.jpg 768w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/1MonthlyDeadlines_APRILMAY-1.jpg 1500w" sizes="(max-width: 600px) 100vw, 600px" />		<div class="img-lumin-overlay" style="background-image: url(../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/1MonthlyDeadlines_APRILMAY-1-600x361.jpg)"></div>
+<article id="card-1547" class="card post-1547 post type-post status-publish format-standard has-post-thumbnail hentry category-pages/curated-deadlines" data-reveal>
+	<a href="2020/04/15/deadlines-april-may-2020.php" class="card-img">
+		<img width="600" height="361" src="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/1MonthlyDeadlines_APRILMAY-1-600x361.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/1MonthlyDeadlines_APRILMAY-1-600x361.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/1MonthlyDeadlines_APRILMAY-1-768x462.jpg 768w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/1MonthlyDeadlines_APRILMAY-1.jpg 1500w" sizes="(max-width: 600px) 100vw, 600px" />		<div class="img-lumin-overlay" style="background-image: url(25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/1MonthlyDeadlines_APRILMAY-1-600x361.jpg)"></div>
 	</a>
 
 	<p class="item-meta"><a href="index.php" rel="category tag">Curated Deadlines</a></p>
-	<h1 class="h2"><a href="../2020/04/15/deadlines-april-may-2020/index.php">Deadlines: April &#038; May&nbsp;2020</a></h1>	<p>By <a href="../author/palette-poetry/index.php" title="Posts by Palette Poetry" rel="author">Palette Poetry</a></p>
+	<h1 class="h2"><a href="2020/04/15/deadlines-april-may-2020.php">Deadlines: April &#038; May&nbsp;2020</a></h1>	<p>By <a href="author/palette-poetry.php" title="Posts by Palette Poetry" rel="author">Palette Poetry</a></p>
 	<p>Every 15th of the month: new deadlines, new contests, and new opportunities for your voice to find the world. The next six weeks include: our own Emerging Poet Prize, Ploughshares, Newfound, Live Cannon’s International Poetry Contest, Ruth Lilly Fellowship and&nbsp;more.</p>	<p><a href="#" class="item-meta">Read More &rsaquo;</a></p>
 </article>
 			</div>
 			</div>
 
 			<div class="masonry-status"></div>
-		<a href="page/2/index.php" class="next-posts d-none" class="button">Next Page</a>
+		<a href="page/2.php" class="next-posts d-none" class="button">Next Page</a>
 	</div>
 
 	</main>
@@ -419,10 +419,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								<div class="col-12 col-md-6 col-lg-5 mt-4">
 					<h2 class="h6 text-dark mb-3">Palette Poetry</h2>
 
-					<ul id="menu-about-menu" class="list-unstyled site-footer-2col-menu"><li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="../about-us/index.php">About&nbsp;Palette&nbsp;Poetry</a></li>
-<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="../submit/index.php">Submit</a></li>
-<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="../terms-conditions/index.php">Terms&nbsp;&#038;&nbsp;Conditions</a></li>
-<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="../privacy-policy/index.php">Privacy&nbsp;Policy</a></li>
+					<ul id="menu-about-menu" class="list-unstyled site-footer-2col-menu"><li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="about-us.php">About&nbsp;Palette&nbsp;Poetry</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="submit.php">Submit</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="terms-conditions.php">Terms&nbsp;&#038;&nbsp;Conditions</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="privacy-policy.php">Privacy&nbsp;Policy</a></li>
 </ul>				</div>
 
 				
@@ -445,7 +445,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="g-recaptcha" data-sitekey="6Ld6mlYUAAAAAEXzwE0WvhSNQy7fp9O5S3geEptl"></div>
 </form>
 
-<script src="../../www.google.com/recaptcha/api.js"></script>
+<script src="www.google.com/recaptcha/api.js"></script>
 
 <script>
 	var preventNewsletterSubmission = true;
@@ -460,7 +460,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		var $this = jQuery(this);
 		var data = $this.serializeArray();
 
-		jQuery.post( '../wp-admin/admin-ajax.html', {
+		jQuery.post( 'wp-admin/admin-ajax.html', {
 			action: 'check_recaptcha',
 			response: data[7].value,
 		}, function(body) {
@@ -487,7 +487,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='4e707b0065d328003009dd00fc074e00a6bef80055ff340034b182003cd47b00';j.dataset.sumoPlatform='wordpress';v.parentNode.insertBefore(j,v)})(window,document,'script','http://load.sumo.com/');</script>    <script type="application/javascript">
-      var ajaxurl = "../wp-admin/admin-ajax.html";
+      var ajaxurl = "wp-admin/admin-ajax.html";
 
       function sumo_add_woocommerce_coupon(code) {
         jQuery.post(ajaxurl, {
@@ -520,8 +520,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         });
       }
     </script>
-    <script type='text/javascript' src='../../25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/themes/pp18/assets/dist/pp7594.js?ver=1528140966' id='pp-js'></script>
+    <script type='text/javascript' src='25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/themes/pp18/assets/dist/pp7594.js?ver=1528140966' id='pp-js'></script>
 </body>
 
-<!-- Mirrored from www.palettepoetry.com/curated-deadlines/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Oct 2021 18:04:36 GMT -->
+<!-- Mirrored from www.palettepoetry.com/pages/curated-deadlines/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Oct 2021 18:04:36 GMT -->
 </html>

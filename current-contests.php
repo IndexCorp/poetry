@@ -3,7 +3,8 @@
 ?>
 
 	<main class="site-main">
-<div class="fl-builder-content fl-builder-content-6 fl-builder-content-primary fl-builder-global-templates-locked" data-post-id="6"><div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5aabfffdd7cd3" data-node="5aabfffdd7cd3">
+<div class="fl-builder-content fl-builder-content-6 fl-builder-content-primary fl-builder-global-templates-locked" data-post-id="6">
+	<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5aabfffdd7cd3" data-node="5aabfffdd7cd3">
 	<div class="fl-row-content-wrap">
 						<div class="fl-row-content fl-row-fixed-width fl-node-content">
 		
@@ -12,15 +13,19 @@
 	<div class="fl-col-content fl-node-content">
 	<div class="fl-module fl-module-html fl-node-5aabfffdd7e5a" data-node="5aabfffdd7e5a">
 	<div class="fl-module-content fl-node-content">
+
 		<div class="fl-html">
 	<style>#card-6 .img-lumin { mix-blend-mode: normal; }#card-6 { background-color: #5c84a0; }#item-6 h1, #item-6 a:hover, #entry-6 blockquote { color: #5c84a0; }</style>
 <header id="entry-header-6" class="entry-header" data-reveal>
 			<div class="entry-img mb-4">
-			<img width="600" height="352" src="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/PALETTEPOETRYLOVEEROSPRIZE2021_2.jpg" class="img-lumin w-100 wp-post-image" alt="2021 Love &amp; Eros Prize, judged by Kaveh Akbar, awarding $3500, deadline: October 18th, 2021" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/PALETTEPOETRYLOVEEROSPRIZE2021_2.jpg 1000w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/PALETTEPOETRYLOVEEROSPRIZE2021_2-600x352.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/PALETTEPOETRYLOVEEROSPRIZE2021_2-768x451.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" />			<div class="img-lumin-overlay" style="background-image: url(25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/PALETTEPOETRYLOVEEROSPRIZE2021_2.jpg)"></div>
+			<img width="600" height="352" src="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/PALETTEPOETRYLOVEEROSPRIZE2021_2.jpg" class="img-lumin w-100 wp-post-image" alt="2021 Love &amp; Eros Prize, judged by Kaveh Akbar, awarding $3500, deadline: October 18th, 2021" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/PALETTEPOETRYLOVEEROSPRIZE2021_2.jpg 1000w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/PALETTEPOETRYLOVEEROSPRIZE2021_2-600x352.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/PALETTEPOETRYLOVEEROSPRIZE2021_2-768x451.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" />			
+			<div class="img-lumin-overlay" style="background-image: url(25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/PALETTEPOETRYLOVEEROSPRIZE2021_2.jpg)"></div>
 		</div>
 	
-	<h1 data-reveal>The Love &#038; Eros&nbsp;Prize</h1>	<h3 class="entry-subtitle">Closed October 18th, 2021—thank you for submitting!</h3></header>
+	<h1 data-reveal>The Love &#038; Eros&nbsp;Prize</h1>	<h3 class="entry-subtitle">Closed October 18th, 2021—thank you for submitting!</h3>
+</header>
 </div>
+
 	</div>
 </div>
 <div class="fl-module fl-module-rich-text fl-node-5aabfffdd7d18" data-node="5aabfffdd7d18">
@@ -43,12 +48,12 @@
 <div class="" data-block="true" data-editor="arprm" data-offset-key="a2q8t-0-0">
 <p class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="a2q8t-0-0"><span data-offset-key="a2q8t-0-1">Kaveh Akbar's</span><span data-offset-key="a2q8t-0-2"> poems appear in </span><span data-offset-key="a2q8t-0-3">The New Yorker, The New York Times, Paris Review, Best American Poetry</span><span data-offset-key="a2q8t-0-4">, and elsewhere. His second full-length volume of poetry, </span><em><a class="linkStyles_accessibleLink__2Rde7 sbm-text link" href="https://www.graywolfpress.org/books/pilgrim-bell" target="_blank" rel="noopener noreferrer" aria-label="">Pilgrim Bell</a></em><span data-offset-key="a2q8t-2-0">, was recently published by Graywolf in August 2021. His debut, </span><em><a class="linkStyles_accessibleLink__2Rde7 sbm-text link" href="http://alicejamesbooks.org/ajb-titles/calling-a-wolf-a-wolf/" target="_blank" rel="noopener noreferrer" aria-label="">Calling a Wolf a Wolf</a></em><span data-offset-key="a2q8t-4-0"><em>,</em> is out with Alice James in the US and Penguin in the UK. He is also the author of the chapbook, </span><em><a class="linkStyles_accessibleLink__2Rde7 sbm-text link" href="http://siblingrivalrypress.bigcartel.com/product/portrait-of-the-alcoholic-by-kaveh-akbar" target="_blank" rel="noopener noreferrer" aria-label="">Portrait of the Alcoholic</a></em><span data-offset-key="a2q8t-6-0">, published in 2016 by Sibling Rivalry Press. In 2022, Penguin Classics will publish a new anthology edited by Kaveh: </span><em>The Penguin Book of Spiritual Verse: 100 Poets on the Divine.</em></p>
 </div>
-<p class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="1o428-0-0"><span data-offset-key="1o428-0-0">In 2020 Kaveh was named Poetry Editor of </span><a class="linkStyles_accessibleLink__2Rde7 sbm-text link" href="https://www.thenation.com/content/poems/" target="_blank" rel="noopener noreferrer" aria-label=""><span data-offset-key="1o428-1-0">The Nation</span></a><span data-offset-key="1o428-2-0">. The recipient of honors including multiple Pushcart Prizes, a Civitella Ranieri Foundation Fellowship, and the Levis Reading Prize, Kaveh was born in Tehran, Iran, and teaches at Purdue University and in the low-residency MFA programs at Randolph College and Warren Wilson. In 2014, Kaveh founded </span><a class="linkStyles_accessibleLink__2Rde7 sbm-text link" href="http://www.divedapper.com/" target="_blank" rel="noopener noreferrer" aria-label=""><span data-offset-key="1o428-3-0">Divedapper</span></a><span data-offset-key="1o428-4-0">, a home for dialogues with the most vital voices in American poetry. With Sarah Kay and Claire Schwartz, he wrote a weekly column for the </span><span data-offset-key="1o428-4-1">Paris Review</span><span data-offset-key="1o428-4-2"> called </span><a class="linkStyles_accessibleLink__2Rde7 sbm-text link" href="https://www.theparisreview.org/blog/category/columns/poetry-rx/" target="_blank" rel="noopener noreferrer" aria-label=""><span data-offset-key="1o428-5-0">"Poetry RX."</span></a></p>
+<p class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="1o428-0-0"><span data-offset-key="1o428-0-0">In 2020 Kaveh was named Poetry Editor of </span><a class="linkStyles_accessibleLink__2Rde7 sbm-text link" href="https://www.thenation.com/content/poems/" target="_blank" rel="noopener noreferrer" aria-label=""><span data-offset-key="1o428-1-0">The Nation</span></a><span data-offset-key="1o428-2-0">. The recipient of honors including multiple Pushcart Prizes, a Civitella Ranieri Foundation Fellowship, and the Levis Reading Prize, Kaveh was born in Tehran, Iran, and teaches at Purdue University and in the low-residency MFA programs at Randolph College and Warren Wilson. In 2014, Kaveh founded </span><a class="linkStyles_accessibleLink__2Rde7 sbm-text link" href="http://www.divedapper.com/" target="_blank" rel="noopener noreferrer" aria-label=""><span data-offset-key="1o428-3-0">Divedapper</span></a><span data-offset-key="1o428-4-0">, a home for dialogues with the most vital voices in American poetry. With Sarah Kay and Claire Schwartz, he wrote a weekly column for the </span><span data-offset-key="1o428-4-1">Paris Review</span><span data-offset-key="1o428-4-2"> called </span><a class="linkStyles_accessibleLink__2Rde7 sbm-text link" href="https://www.theparisreview.org/blog/category/poetry/poetry-rx/" target="_blank" rel="noopener noreferrer" aria-label=""><span data-offset-key="1o428-5-0">"Poetry RX."</span></a></p>
 <p>&nbsp;</p>
 <h2><strong>submission guidelines</strong></h2>
 <ul>
 <li class="public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="arprm" data-offset-key="4r8b9-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="4r8b9-0-0"><span data-offset-key="4r8b9-0-0"><span data-text="true">Submissions are open internationally, to any poet writing in English—other languages are okay to include, as long as the majority of the poem is in English.</span></span></div>
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="4r8b9-0-0"><span data-offset-key="4r8b9-0-0"><span data-text="true">Submissions are open internationally, to any poet writing in English—other languages are okay to include, as long as the majority of the poems is in English.</span></span></div>
 </li>
 <li class="public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="arprm" data-offset-key="a9c4t-0-0">
 <div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="a9c4t-0-0"><span data-offset-key="a9c4t-0-0"><span data-text="true">We accept simultaneous submissions—just please send us a note if your work is picked up elsewhere (we want to say congrats!)</span></span></div>
@@ -76,7 +81,7 @@
 <p>The Writing Salon is offering every submitter a 10% off discount code on a writing class. Go to <a href="https://www.writingsalons.com/">https://www.writingsalons.com/</a> to find a class and type in the code in the confirmation during checkout.</p>
 <p>&nbsp;</p>
 <h2><strong>editorial feedback option</strong></h2>
-<p>This option costs $59 and will provide you with two pages of detailed and actionable feedback on a poem of your choice from the submission, including suggestions for future submissions. Our guest editors are paid a significant portion of the fee (at <a href="https://www.the-efa.org/rates/">EFA</a> rates) and are all incredibly astute and professional poets.</p>
+<p>This option costs $59 and will provide you with two pages of detailed and actionable feedback on a poems of your choice from the submission, including suggestions for future submissions. Our guest editors are paid a significant portion of the fee (at <a href="https://www.the-efa.org/rates/">EFA</a> rates) and are all incredibly astute and professional poets.</p>
 </div>
 </div>
 <p>&nbsp;</p>
@@ -85,52 +90,19 @@
 </div>
 	</div>
 </div>
+
 			<div class="fl-col fl-node-5aabfffdd7e1d fl-col-small" data-node="5aabfffdd7e1d">
 	<div class="fl-col-content fl-node-content">
 	<div class="fl-module fl-module-sidebar fl-node-5aabfffdd7d63" data-node="5aabfffdd7d63">
 	<div class="fl-module-content fl-node-content">
-		<section id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://www.palettepoetry.com/">
-				<label>
-					<span class="screen-reader-text">Search for:</span>
-					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
-				</label>
-				<input type="submit" class="search-submit" value="Search" />
-			</form></section><section id="pp-submit-2" class="widget widget-pp-submit"><h2 class='text-dark'>Share Your Poetry</h2><p>Always free. Always open. $50 per poem selected.</p><a href='submit/index.php' class='btn btn-white'>Submit</a></section><section id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>
-			<ul>
-					<li class="cat-item cat-item-22"><a href="columns/alan-chazaros-pocho-boy/index.php">Alan Chazaro&#039;s Pocho Boy</a>
-</li>
-	<li class="cat-item cat-item-26"><a href="columns/chelsea-dingmans-intersection/index.php">Chelsea Dingman&#039;s Intersection</a>
-</li>
-	<li class="cat-item cat-item-18"><a href="contest-winner/index.php">Contest Winner</a>
-</li>
-	<li class="cat-item cat-item-24"><a href="curated-deadlines/index.php">Curated Deadlines</a>
-</li>
-	<li class="cat-item cat-item-14"><a href="essay/index.php">Essay</a>
-</li>
-	<li class="cat-item cat-item-19"><a href="feedback/index.php">Feedback</a>
-</li>
-	<li class="cat-item cat-item-20"><a href="columns/franny-chois-periodic/index.php">Franny Choi&#039;s Periodic</a>
-</li>
-	<li class="cat-item cat-item-15"><a href="interview/index.php">Interview</a>
-</li>
-	<li class="cat-item cat-item-30"><a href="columns/khalisa-raes-knee-length/index.php">Khalisa Rae&#039;s Knee Length</a>
-</li>
-	<li class="cat-item cat-item-16"><a href="note-from-the-editors/index.php">Note From the Editors</a>
-</li>
-	<li class="cat-item cat-item-3"><a href="poetry/index.php" title="We are so grateful to all of our partner-poets for sharing their work with us—please enjoy their beautiful words in our Featured Poetry catalogue.">Poetry</a>
-</li>
-	<li class="cat-item cat-item-25"><a href="poetry/poetry-we-admire/index.php">Poetry We Admire</a>
-</li>
-	<li class="cat-item cat-item-27"><a href="columns/robin-myers-the-guest/index.php">Robin Myers&#039; The Guest</a>
-</li>
-	<li class="cat-item cat-item-28"><a href="columns/tiffany-osedra-millers-goatwater/index.php">Tiffany Osedra Miller&#039;s Goatwater</a>
-</li>
-	<li class="cat-item cat-item-29"><a href="poetry/voices-for-change/index.php">Voices for Change</a>
-</li>
-			</ul>
 
-			</section>	</div>
+		<?php 
+			include 'navigation/sidebar.php';
+		?>
+
+		</div>
 </div>
+
 	</div>
 </div>
 	</div>
