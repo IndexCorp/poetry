@@ -4,7 +4,7 @@
 <!-- Mirrored from www.palettepoetry.com/poetry/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Oct 2021 18:01:38 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-<!-- <base href="<BASE_URL;?>"> -->
+	
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />

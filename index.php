@@ -7,17 +7,17 @@
 		<div class="container pt-5">
 			<div class="row flex-row-reverse py-5">
 				<div class="col-12 col-md-7">
-					<style>#card-2355 .img-lumin { mix-blend-mode: normal; }#card-2355 { background-color: #5c84a0; }#item-2355 h1, #item-2355 a:hover, #entry-2355 blockquote { color: #5c84a0; }</style>
+					<style>#card-2355 .img-lumin { mix-blend-mode: normal; }#card-2355 { background-color: #db5e5c; }#item-2355 h1, #item-2355 a:hover, #entry-2355 blockquote { color: #5c84a0; }</style>
 		<article id="card-2355" class="card card-lg post-2355 post type-post status-publish format-standard has-post-thumbnail hentry category-poetry" data-reveal>
-			<a href="poems/i-refuse-to-write-a-poem-about-body.php" class="card-img">
-				<img width="600" height="400" src="25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/Nora-Hikari.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/Nora-Hikari.jpg 1000w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/Nora-Hikari-600x400.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/Nora-Hikari-768x512.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" />
-				<div class="img-lumin-overlay" style="background-image: url(25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/Nora-Hikari.jpg)"></div>
+			<a href="poems/a-road.php" class="card-img">
+				<img width="600" height="400" src="assets/images/Jeff-Ewing.jpg" class="img-lumin w-100 wp-post-image" alt="" loading="lazy" srcset="https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/Jeff-Ewing.jpg 1000w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/Jeff-Ewing.jpg 600w, https://25aamm630gl45f37y1dp98xj-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/Jeff-Ewing.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" />
+				<div class="img-lumin-overlay" style="background-image: url(assets/images/Jeff-Ewing.jpg)"></div>
 			</a>
 
 			<p class="item-meta"><a href="poetry.php" rel="category tag">Poetry</a></p>
-			<h2><a href="poems/i-refuse-to-write-a-poem-about-body.php">I Refuse to Write a poems About&nbsp;Body</a></h2>	
-			<p>By <a href="author/nora-hikari.php" title="Posts by Nora Hikari" rel="author">Nora Hikari</a></p>
-			<p>&#8220;I refuse to strike matches against my body, / I refuse to match my body against the years / it is&nbsp;owed&#8221;</p>
+			<h2><a href="poems/a-road.php">A ROAD</a></h2>	
+			<p>By <a href="author/jeff-ewing.php" title="Posts by Nora Hikari" rel="author">Jeff Ewing</a></p>
+			<p>&#8220;“That along / the way we acquire and shed companions. That the sky / goes black at night and lights again in the morning–“</p>
 		</article>
 							</div>
 
